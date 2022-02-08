@@ -2,4 +2,4 @@
 
 ``📯`` This addon is made by hodos.
 
-``📮`` If you have any questions, please contact me:
+``📮`` If you have any questions, please contact me on discord: hodos#8161
